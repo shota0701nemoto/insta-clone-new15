@@ -14,6 +14,14 @@
 /lib
 /public
 /test
+/log
+/assets
+/channels
+/helpers
+/jobs
+/tmp
+
+
 
 
 # Ignore the default SQLite database.
